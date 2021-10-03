@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.large-box {
+  border: 1px solid maroon;
+  border-radius: 10px;
+  height: 600px;
+  margin: 20px;
+}
+.mini-box {
+  border: 1px solid forestgreen;
+  border-radius: 10px;
+  height: 400px;
+  margin: 20px;
+}
+.just-box {
+  border: 1px solid cadetblue;
+  border-radius: 10px;
+  height: 200px;
+  margin: 20px;
+}
